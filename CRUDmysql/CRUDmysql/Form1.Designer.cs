@@ -184,6 +184,7 @@
             this.tbId.Name = "tbId";
             this.tbId.Size = new System.Drawing.Size(100, 22);
             this.tbId.TabIndex = 27;
+            this.tbId.Visible = false;
             // 
             // Form1
             // 

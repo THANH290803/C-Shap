@@ -36,7 +36,7 @@ namespace CRUDmysql
             lbemail.Enabled = true;
             lbpassword.Enabled = true;
             lbrepass.Enabled = true;
-      
+            
             tbUsername.Enabled = true;
             tbUseremail.Enabled = true;
             tbPassword.Enabled = true;
@@ -85,7 +85,7 @@ namespace CRUDmysql
             lbemail.Enabled = true;
             lbpassword.Enabled = true;
             lbrepass.Enabled = true;
-      
+            
             tbUsername.Enabled = true;
             tbUseremail.Enabled = true;
             tbPassword.Enabled = true;
