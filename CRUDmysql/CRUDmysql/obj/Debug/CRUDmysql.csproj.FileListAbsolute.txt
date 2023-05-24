@@ -35,3 +35,4 @@ E:\C Shap\CRUDmysql\CRUDmysql\bin\Debug\System.Runtime.CompilerServices.Unsafe.x
 E:\C Shap\CRUDmysql\CRUDmysql\bin\Debug\System.Threading.Tasks.Extensions.xml
 E:\C Shap\CRUDmysql\CRUDmysql\obj\Debug\CRUDmysql.Form1.resources
 E:\C Shap\CRUDmysql\CRUDmysql\obj\Debug\CRUDmysql.csproj.CopyComplete
+E:\C Shap\CRUDmysql\CRUDmysql\obj\Debug\CRUDmysql.From2.resources

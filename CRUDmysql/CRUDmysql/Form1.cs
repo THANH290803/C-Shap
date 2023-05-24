@@ -139,7 +139,7 @@ namespace CRUDmysql
 
             MySqlConnection connection = new MySqlConnection(sqlConnection);
            
-                string sql = "DELETE FROM users WHERE user_id='"+ id +"'";
+                string sql = "DELETE FROM users WHERE cat_id='"+ id +"'";
                 MySqlCommand command = new MySqlCommand(sql, connection);
                 connection.Open();
                 command.ExecuteNonQuery();
